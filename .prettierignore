@@ -1,0 +1,12 @@
+/dist
+/node_modules
+/public
+*.sh
+.git*
+.prettier*
+LICENSE*
+stats.json
+yarn*
+*.png
+*.log
+*.lock
